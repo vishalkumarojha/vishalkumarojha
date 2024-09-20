@@ -20,11 +20,10 @@ Hi there, I'm **Vishal Kumar Ojha**, I'm a 2nd-year student at **VIT University,
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an student at **VIT University, Bhopal** with [Portfolio]((https://vishalkumarojha.github.io/portfolio-VishalOjha/)) working on Personalised Streaming Site projects;
-- 🌱 I’m currently learning Android Devlopment ; 
+- 🌱 I’m currently learning Web  Devlopment & App Devlopment ; 
 - 🤔 My interests are in Automation , Android Devlopment..;
 - 💼 I’m pursuing a B.Tech CSE (Sp. in Health Informatics);
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via work.vishalojha@gmail.com to reach me.
+- 📫 Please email via work.vishalojha@gmail.com to reach me;
 - 📝 See my [Curriculum Vitae]((https://github.com/vishalkumarojha/Portfolio--VishalOjha/blob/main/cv.pdf)) to get more info.
 
 
