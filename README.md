@@ -7,7 +7,7 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/vishalojha628/">
-  <img align="left" alt="Vushal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Vishal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
@@ -21,7 +21,7 @@ Hi there, I'm **Vishal Kumar Ojha**, I'm a 2nd-year student at **VIT University,
 
 - 👨🏽‍💻 I’m currently an student at **VIT University, Bhopal** with [Portfolio]((https://vishalkumarojha.github.io/portfolio-VishalOjha/)) working on Personalised Streaming Site projects;
 - 🌱 I’m currently learning Android Devlopment ; 
-- 🤔 My interests are with Automation , Android Devlopment..;
+- 🤔 My interests are in Automation , Android Devlopment..;
 - 💼 I’m pursuing a B.Tech CSE (Sp. in Health Informatics);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via work.vishalojha@gmail.com to reach me.
