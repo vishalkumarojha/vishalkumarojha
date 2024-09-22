@@ -1,4 +1,4 @@
-### Hey , I'm Vishal Ojha
+### Hey , I'm Vishal Kumar Ojha
 
 <a href="https://www.linkedin.com/in/vishalkumarojha/">
   <img align="left" alt="Vishal's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
