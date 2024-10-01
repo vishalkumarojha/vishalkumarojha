@@ -20,7 +20,7 @@ Hi there, I'm **Vishal Kumar Ojha**, I'm a 2nd-year student at **VIT University,
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an student at **VIT University, Bhopal** with [Portfolio]((https://vishalkumarojha.github.io/portfolio-VishalOjha/)) working on Personalised Streaming Site projects;
-- 🌱 I’m currently learning Web  Devlopment & App Devlopment ; 
+- 🌱 I’m currently learning Web & App Devlopment ; 
 - 🤔 My interests are in Automation , Android Devlopment..;
 - 🌱 I’m currently Working on Projects **Personal bogging Page & Own Streaming Site** ; 
 - 💼 I’m pursuing a B.Tech CSE (Sp. in Health Informatics);
