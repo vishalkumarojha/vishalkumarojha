@@ -15,7 +15,7 @@
 
 Hey there, I'm **Vishal Ojha aka Arno Dorien**, I'm a 2nd-year student at **VIT University, Bhopal**, passionate about leveraging technology to create impactful solutions.  Currently,I serve as the **Tech Team Lead** at **Notion Community VIT Bhopal** and also **Co-Lead** of the technical team at **E-Cell VIT Bhopal**. 
 
-<img align="centre" alt="GIF" src="[https://media.licdn.com/dms/image/v2/D5616AQEZmGiD7YpzMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730444228364?e=1735776000&v=beta&t=hYk7xxyWqE3IXSnEGRa_pddYWcpCk1wsojFp68gI6PM](https://media.licdn.com/dms/image/v2/D4D16AQHdCpRCAxcXiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734084595663?e=1740009600&v=beta&t=pCVom65MIgntKbpY9UnLoujkouP0nVfDRy6ot7q4ZUQ)]" />
+<img align="centre" alt="GIF" src="(https://github.com/vishalkumarojha/badges/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png)" />
 
 **Talking about Personal Stuffs:**
 
