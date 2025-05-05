@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hey there, I'm **Vishal Ojha aka Arno Dorien**, I'm a 2nd-year student at **VIT University, Bhopal**, passionate about leveraging technology to create impactful solutions.  Currently,I serve as the **Tech Team Lead** at **Notion Community VIT Bhopal** and also **Co-Lead** of the technical team at **E-Cell VIT Bhopal**. 
+Hey there, I'm **Vishal Ojha aka Arno Dorien**, I'm a 2nd-year student at **VIT University, Bhopal**, passionate about leveraging technology to create impactful solutions.  Currently,I serve as the **Board Adviser** at **Notion Community VIT Bhopal** and also **Co-Lead** of the technical team at **E-Cell VIT Bhopal**. 
 
 <img align="centre" alt="GIF" src="https://github.com/vishalkumarojha/badges/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png" />
 
