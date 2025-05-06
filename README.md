@@ -19,7 +19,7 @@ Hey there, I'm **Vishal Ojha aka Arno Dorien**, I'm a 2nd-year student at **VIT 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an student at **VIT University, Bhopal** with [Portfolio]((https://vishalkumarojha.github.io/portfolio-VishalOjha/)) working on Personalised Streaming Site projects;
+- 👨🏽‍💻 I’m currently an student at **VIT University, Bhopal** with [Portfolio]((https://vishalkumarojha.github.io/portfolio-VishalOjha/)) ;
 - 🌱 I’m currently learning DevOps & App Devlopment ; 
 - 🤔 My interests are in Automation , Android Devlopment..;
 - 🌱 I’m currently Working on Projects **ArnoCodes,  Hackcrusade & AV site** ; 
