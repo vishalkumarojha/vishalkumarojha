@@ -15,7 +15,7 @@
 
 Hey there, I'm **Vishal Kumar Ojha**, I'm a 3rd-year student at **VIT University, Bhopal**, passionate about leveraging technology to create impactful solutions.  Currently,I serve as the **Board Adviser** at **Notion Community VIT Bhopal** and also at the Community@Notion. 
 
-<img align="centre" alt="GIF" src="https://github.com/vishalkumarojha/badges/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png" />
+<img align="centre" alt="GIF" src="https://github.com/vishalkumarojha/vishalkumarojha/blob/main/banner.png?raw=true" />
 
 **Talking about Personal Stuffs:**
 
