@@ -25,7 +25,6 @@ Hey there, I'm **Vishal Kumar Ojha**, I'm a 3rd-year student at **VIT University
 - 🌱 I’m currently Working on Projects Muntiple projects ; 
 - 💼 I’m pursuing a B.Tech CSE (Sp. in Health Informatics);
 - 📫 Please email via work.vishalojha@gmail.com to reach me;
-- 📝 See my [Curriculum Vitae]((https://github.com/vishalkumarojha/Portfolio--VishalOjha/blob/main/cv.pdf)) to get more info.
 
 
 
