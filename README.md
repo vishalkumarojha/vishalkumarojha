@@ -13,16 +13,16 @@
 <br />
 <br />
 
-Hey there, I'm **Vishal Kumar Ojha**, I'm a 2nd-year student at **VIT University, Bhopal**, passionate about leveraging technology to create impactful solutions.  Currently,I serve as the **Board Adviser** at **Notion Community VIT Bhopal** and also **Lead** of the technical team at **E-Cell VIT Bhopal**. 
+Hey there, I'm **Vishal Kumar Ojha**, I'm a 3rd-year student at **VIT University, Bhopal**, passionate about leveraging technology to create impactful solutions.  Currently,I serve as the **Board Adviser** at **Notion Community VIT Bhopal** and also at the Community@Notion. 
 
 <img align="centre" alt="GIF" src="https://github.com/vishalkumarojha/badges/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an student at **VIT University, Bhopal** with [Portfolio]((https://vishalkumarojha.github.io/portfolio-VishalOjha/)) ;
-- 🌱 I’m currently learning DevOps & App Devlopment ; 
-- 🤔 My interests are in Automation , Android Devlopment..;
-- 🌱 I’m currently Working on Projects **ArnoCodes,  Hackcrusade & AV site** ; 
+- 👨🏽‍💻 I’m currently an student at **VIT University, Bhopal** ;
+- 🌱 I’m currently learning System design and Cybersecurity ; 
+- 🤔 My interests are in Cybersecurity , Android Devlopment..;
+- 🌱 I’m currently Working on Projects Muntiple projects ; 
 - 💼 I’m pursuing a B.Tech CSE (Sp. in Health Informatics);
 - 📫 Please email via work.vishalojha@gmail.com to reach me;
 - 📝 See my [Curriculum Vitae]((https://github.com/vishalkumarojha/Portfolio--VishalOjha/blob/main/cv.pdf)) to get more info.
