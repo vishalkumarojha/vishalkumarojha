@@ -1,149 +1,216 @@
-# Hi there, I'm Vishal Kumar Ojha 👋
-
-### 👨‍💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 🚀 Mobile App Builder
-
-
-
-<!-- AI-SUMMARY:START -->
-I'm a Computer Science student at VIT Bhopal passionate about building scalable web & mobile applications, exploring cybersecurity, and creating impactful digital products. I actively work on full-stack projects, developer communities, and modern application architecture while continuously learning system design, DevOps, and backend engineering.
-<!-- AI-SUMMARY:END -->
-
----
-
-## 💼 Professional Experience
-
-**Project Intern @ Hindalco Industries Ltd.**  
-*May 2026 - Present*
-
-<!-- AI-STACK:START -->
-- **Core Stack:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-- **Focus:** developing internal dashboards, KPI automation systems, and improving enterprise workflows.
-
-- **Current Learning:**
-  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-  ![System Design](https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge)
-<!-- AI-STACK:END -->
-
-> 📢 **Open to exciting opportunities!**  
-> Interested in **Full Stack Development**, **Software Engineering**, and **Cybersecurity** roles.  
-> *Focused on building impactful products and scalable systems.*
-
----
-
-## 🚀 Developer Aspirations
-
-Beyond academics, I love building products and experimenting with modern technologies. I enjoy creating scalable applications and solving real-world problems through technology.
-
-- **Backend:**
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-- **Frontend:**
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-- **Mobile:**
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-  ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo)
-
-I enjoy learning new technologies, participating in hackathons, and collaborating on innovative ideas.
-
----
-
-## 🛠 Projects & Products
-
-I build products focused on productivity, education, and scalable digital experiences.
-
-### 👉 Ease-Out
-*A productivity platform built using React Native, Firebase, and TypeScript.*
-
-- Job tracking system handling 100+ applications
-- Real-time updates and scalable architecture
-- Secure data management modules
-
----
-
-### 👉 AdVITya'26 Event Platform
-*Official event platform for VIT Bhopal's annual techno-cultural fest.*
-
-- Managed 150+ events
-- Optimized backend traffic handling
-- Reduced server latency by 45%
-
----
-
-### 👉 Arno Codes
-*An EdTech platform for DSA learning and developer education.*
-
-- Built using Next.js and MongoDB
-- JWT Authentication & RBAC
-- Optimized content discovery experience
-
----
-
-## 📈 Top Repositories
-
-I contribute to open source and actively build personal projects.
-
-<!-- RECENT-REPOS:START -->
-| 📂 Repository | 📄 Description |
-| :--- | :--- |
-| **Ease-Out** | Productivity and job tracking platform built with React Native |
-| **AdVITya'26** | Large-scale event management portal |
-| **Arno Codes** | DSA learning and educational platform |
-<!-- RECENT-REPOS:END -->
-
-*(These projects continue evolving with new features and improvements.)*
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vishalkumarojha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+```
+██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗         ██╗  ██╗    ██████╗ ██╗██╗  ██╗ █████╗
+██║   ██║██║██╔════╝██║  ██║██╔══██╗██║         ██║ ██╔╝   ██╔═══██╗██║██║  ██║██╔══██╗
+██║   ██║██║███████╗███████║███████║██║         █████╔╝    ██║   ██║██║███████║███████║
+╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║         ██╔═██╗    ██║   ██║██║██╔══██║██╔══██║
+ ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗    ██║  ██╗   ╚██████╔╝██║██║  ██║██║  ██║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝    ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkumarojha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=1F6FEB&center=true&vCenter=true&width=800&height=45&lines=%3E+Full-Stack+Engineer;%3E+Cybersecurity+Researcher;%3E+Supply-Chain+Threat+Analyst;%3E+IEEE+Published+Author;%3E+SaaS+Co-Founder" alt="roles" />
+
+<br/>
+
+`SYS.STATUS` **ONLINE** &nbsp;•&nbsp; `LOC` Bhopal, IN &nbsp;•&nbsp; `NODE` VIT Bhopal — CSE / Cybersecurity
+
+<br/>
+
+<a href="https://linkedin.com/in/Vishalkumarojha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://vishalojha628.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://medium.com/@vishalojha892"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/vishalojha628"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
+<a href="mailto:work.vishalojha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Vishalkumarojha&color=1F6FEB&style=flat-square&label=VISITS" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+```bash
+$ whoami --verbose
+
+  name        : Vishal Kumar Ojha
+  role        : CSE @ VIT Bhopal  ·  Cybersecurity Specialization
+  currently   : reverse-engineering malicious GitHub repos for my capstone
+  building    : full-stack systems that don't fall over at scale
+  shipped     : IEEE paper · a SaaS company · a fest portal with 2.2M interactions
+  fun_fact    : I've spent more time reading other people's package.json
+                than their messages or letters that I'd like to admit — turns out that's a security career
+```
+
+<br/>
+
+## `01` Currently Hunting
+
+> **Capstone — Phase 2:** Analysis, demonstration & prevention of **malicious GitHub repositories and software supply-chain attacks.**
+
+Ever `npm install`-ed something and not read a single line of it? Same. That's the attack surface I'm studying — typosquatted packages, install-time scripts, poisoned dependencies, and the repos that look legitimate right up until they aren't.
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🔍 ANALYZE**
+<br/><sub>Dissecting real malicious repos & payload delivery patterns</sub>
+
+</td>
+<td width="33%" align="center">
+
+**💥 DEMONSTRATE**
+<br/><sub>Building safe, sandboxed PoCs of supply-chain compromise</sub>
+
+</td>
+<td width="33%" align="center">
+
+**🛡️ PREVENT**
+<br/><sub>Detection heuristics & developer-side defenses</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02` Things I've Built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 WealthSync
+` Flutter ` ` Firebase` `Hive` ` Dart` `GetX` `Biometrics`
+
+Built a cross-platform personal finance application to provide secure, reliable access to financial data across online and offline environments.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Arno Codes
+`Next.js` `TypeScript` `MongoDB Atlas` `Docker`
+
+A DSA platform with an **online code execution engine**, contests, discussion forums, and company-wise interview tracks.
+
+`150+ active users` · `99% uptime` · `Lighthouse 90+`
+Content discovery time cut **40%** via lazy loading, code splitting & caching.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎪 AdVITya '26 Portal
+`Next.js` `Node.js` `PostgreSQL`
+
+Ran the entire tech stack for VIT Bhopal's fest as **Technical Head**.
+
+`150+ events` · `2.2M+ interactions` · `4,300+ feedback entries` · `−45% latency`
+
+The kind of traffic that teaches you caching the hard way.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Ease-Out
+`React Native` `Firebase` `TypeScript`
+
+Job-application tracker built because spreadsheets were losing my applications.
+
+`100+ applications tracked` · real-time sync · secure local data handling.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `03` Receipts
+
+📄 **IEEE Published** — *A Multimodal Narration System for Enhancing Accessibility for the Visually Impaired*
+<sub>2nd IEEE International Conference on Cognitive, Green and Ubiquitous Computing (IC-CGU 2025)</sub>
+
+🚀 **Co-Founder, Liomonk** — architected the core SaaS product. **500% client onboarding growth** over two years.
+
+🏭 **Hindalco Industries (Aditya Birla Group)** — Java appointment-management platform, 500+ records, **+30% processing efficiency**.
+
+🧪 **Scramble Labs** — 2 production REST APIs (Django/PostgreSQL) + a Git workflow that killed **15 merge conflicts** before they happened.
+
+🌐 **VIT Bhopal × Johns Hopkins Hackathon** — Lead Coordinator. 15 sponsors, 200+ participants, one very long weekend.
+
+🧠 **Notion Campus Ambassador (US)** — 4,500+ students reached across Indian universities.
+
+<br/>
+
+## `04` Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vishalkumarojha&theme=tokyonight&hide_border=true" />
+**LANGUAGES**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" />
+
+**BACKEND & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" />
+
+**FRONTEND & MOBILE**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" />
+
+**DATA & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+
+**INFRA & TOOLING**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,aws,git,linux,postman&theme=dark" />
+
+<br/>
+
+### 🔐 SECURITY TOOLKIT
+`Supply-chain analysis` · `Malicious repo detection` · `Static & dynamic analysis`
+`RBAC design` · `JWT / OAuth hardening` · `Secure API architecture`
 
 </div>
 
----
+<br/>
 
----
+## `05` The Numbers
 
-## 🌐 Connect with Me
+<div align="center">
 
-- 💼 **LinkedIn:** [linkedin.com/in/Vishalkumarojha](https://linkedin.com/in/Vishalkumarojha)
-- 🌍 **Portfolio:** [Portfolio Website](https://vishalojha628.vercel.app/)
-- 💻 **GitHub:** [github.com/Vishalkumarojha](https://github.com/Vishalkumarojha)
-- ✍️ **Medium:** [medium.com/@vishalojha892](https://medium.com/@vishalojha892)
-- 🧠 **Dev.to:** [dev.to/vishalojha628](https://dev.to/vishalojha628)
-- 📸 **Instagram:** [instagram.com/vishalojha628](https://instagram.com/vishalojha628)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalkumarojha&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=8957E5&currStreakLabel=1F6FEB" />
 
-![](https://komarev.com/ghpvc/?username=Vishalkumarojha&color=blueviolet)
+<br/><br/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vishalkumarojha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkumarojha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&langs_count=8&cache_seconds=86400" />
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Vishalkumarojha/Vishalkumarojha/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+## `06` Let's Talk
+
+**Open to:** Software Engineering · Full-Stack · Security Engineering roles & internships
+<br/>
+Or just ping me about supply-chain attacks. I will not stop talking.
+
+<br/>
+
+<a href="https://linkedin.com/in/Vishalkumarojha"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:work.vishalojha@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+```
+> The best time to audit a dependency was before you installed it.
+> The second best time is now.
+```
+
 </div>
